@@ -1,0 +1,53 @@
+h1 {
+  font-family: "EB Garamond", serif;
+  color: #c95d63;
+  font-size: 40px;
+}
+h2 {
+  font-family: "EB Garamond", serif;
+  color: #c95d63;
+  font-size: 30px;
+}
+h3 {
+  font-family: "EB Garamond", serif;
+  color: #c95d63;
+  font-size: 24px;
+}
+body {
+  background: aquamarine;
+}
+a {
+  font-family: "EB Garamond", serif;
+  font-size: 16px;
+  text-decoration: underline;
+  color: #c95d63;
+}
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2em;
+  list-style: none;
+}
+.Navagation a {
+  display: flex;
+  transform: scale(1);
+  transition: 500ms;
+}
+.Navagation a:hover {
+  transform: scale(1.4);
+  transition: 500ms;
+  color: red;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  transform: scale(0.8);
+  transition: 500ms;
+}
+.title:hover {
+  transform: scale(1.2);
+  transition: 500ms;
+  color: red;
+}
