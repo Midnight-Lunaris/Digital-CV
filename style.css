@@ -51,17 +51,17 @@ nav ul {
   transition: 500ms;
   color: red;
 }
-
-#about {
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-  justify-content: center;
-  align-items: center;
-}
-div {
-  width: 10em;
-  height: 5em;
+#imgcontain {
   background-image: url("Images/me.jpg");
   background-size: 100% 100%;
+}
+#about {
+  background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 3rem;
+}
+#box-2 {
+  padding: 4rem;
 }
