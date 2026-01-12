@@ -61,6 +61,8 @@ nav ul {
   align-items: center;
   justify-content: space-evenly;
   gap: 3rem;
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
 }
 #box-2 {
   padding: 4rem;
