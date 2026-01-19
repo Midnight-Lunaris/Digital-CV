@@ -67,3 +67,48 @@ nav ul {
 #box-2 {
   padding: 4rem;
 }
+#profile {
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#profile-2 {
+  background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  font-family: "EB Garamond", serif;
+}
+#Experience {
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Experience-2 {
+  background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  font-family: "EB Garamond", serif;
+}
+#projects {
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#projects-2 {
+  background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  font-family: "EB Garamond", serif;
+}
