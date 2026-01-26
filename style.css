@@ -112,3 +112,18 @@ nav ul {
   font-size: 20px;
   font-family: "EB Garamond", serif;
 }
+#Skills {
+  background-color: blanchedalmond;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Skills-2 {
+  background-color: beige;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  font-family: "EB Garamond", serif;
+}
