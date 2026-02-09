@@ -1,3 +1,4 @@
+/*Controls all font sizes and colours as well as font family*/
 h1 {
   font-family: "EB Garamond", serif;
   color: #c95d63;
@@ -30,6 +31,7 @@ nav ul {
   gap: 2em;
   list-style: none;
 }
+/*Contains all navagation and other highlights as well as positioning*/
 .Navagation a {
   display: flex;
   transform: scale(1);
@@ -51,10 +53,12 @@ nav ul {
   transition: 500ms;
   color: red;
 }
+/*Contains the image location and the size as well as highlight*/
 #imgcontain {
   background-image: url("Images/me.jpg");
   background-size: 100% 100%;
 }
+/*Contains all navagation and other highlights as well as positioning also the odd boxes*/
 #about {
   background-color: beige;
   display: flex;
