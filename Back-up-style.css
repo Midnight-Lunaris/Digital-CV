@@ -15,9 +15,7 @@ h3 {
   font-size: 24px;
 }
 body {
-background: azure;
-border: 5px;
-overflow: hidden;
+  background: aquamarine;
 }
 a {
   font-family: "EB Garamond", serif;
@@ -43,7 +41,6 @@ nav ul {
   transform: scale(1.4);
   transition: 500ms;
   color: red;
-  background: #8eb1c7;
 }
 .title {
   display: flex;
@@ -55,7 +52,6 @@ nav ul {
   transform: scale(1.2);
   transition: 500ms;
   color: red;
-    background: #8eb1c7;
 }
 /*Contains the image location and the size as well as highlight*/
 #imgcontain {
