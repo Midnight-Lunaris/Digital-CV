@@ -153,6 +153,9 @@ nav ul {
   font-family: "EB Garamond", serif;
 }
 h7 {
-  color: burlywood;
+  color: black;
   font-size: 14px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
