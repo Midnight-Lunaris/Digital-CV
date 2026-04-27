@@ -63,3 +63,14 @@ nav ul {
   font-family: "EB Garamond", serif;
   font-size: 2px;
 }
+#About_me1 {
+      display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+#About_me2 {
+      display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+}
