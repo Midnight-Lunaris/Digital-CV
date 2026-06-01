@@ -40,3 +40,16 @@ nav ul {
   color: red;
   background: #8eb1c7;
 }
+#Title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#Para {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}

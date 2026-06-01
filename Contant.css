@@ -2,6 +2,9 @@ h1 {
   font-family: "EB Garamond", serif;
   color: #c95d63;
   font-size: 40px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
 h2 {
   font-family: "EB Garamond", serif;
@@ -39,4 +42,11 @@ nav ul {
   transition: 500ms;
   color: red;
   background: #8eb1c7;
+}
+#Contacts {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 5ex;
 }
